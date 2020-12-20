@@ -1,0 +1,22 @@
+{
+  "name": "@institis/edm",
+  "version": "0.0.1",
+  "description": "Entity data model for odata",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/institis/odata.git"
+  },
+  "keywords": [
+    "odata"
+  ],
+  "author": "Yogesh Sajanikar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/institis/odata/issues"
+  },
+  "homepage": "https://github.com/institis/odata#readme"
+}

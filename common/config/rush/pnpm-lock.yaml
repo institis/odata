@@ -1,0 +1,13 @@
+dependencies:
+  '@rush-temp/edm': 'file:projects/edm.tgz'
+lockfileVersion: 5.1
+packages:
+  'file:projects/edm.tgz':
+    dev: false
+    name: '@rush-temp/edm'
+    resolution:
+      integrity: sha512-uh7Q7Uq5FQjSkgIWmf+qJeI4Zm41CIO/OouzOgkyA7aLoFhplxkbx1GO210UDTwQ03xBHeLSZsgjXe6+EqbLpw==
+      tarball: 'file:projects/edm.tgz'
+    version: 0.0.0
+specifiers:
+  '@rush-temp/edm': 'file:./projects/edm.tgz'
